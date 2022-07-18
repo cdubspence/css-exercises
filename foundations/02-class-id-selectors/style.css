@@ -1,0 +1,18 @@
+.lightred {
+    background-color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bigtext {
+    font-size: 24px;
+}
+
+#green {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+#blue {
+    font-size: 36px;
+    color: blue;
+}
